@@ -19,14 +19,14 @@ For the most part the average open, close, high and low values hover around 22-2
 
 The highest volume trading dates were in 2007 and 2008 during the global financial crises.  This makes sense given there was extensive trading volatility during this time period and people were both selling and buying in the hopes of mitigating losses and buying stocks that were seen as relatively cheaper.  The date with the highest trading volume was January 23, 2008.  The volume traded on this date was 1.6 billion or nearly 1600 times the amount traded on average over the observed time period.
 
-![alt text]([url/images/HighVolumeDays.png] "High Volume")
+![alt text]([https://github.com/natc79/StockPrices/blob/master/HighVolumeDays.png] "High Volume")
 
 
 ## Most profitable stocks
 
 During the date with the highest trading volume.  The stock that had the greatest one-day profit was which had a profit gain of 38%.  Even the 10th highest stock had a profit gain of 17%.  algt = allegiant travel; dominion resources = electricity, artw = art way manufacturing, bnt = bon ton stores, bnso = bonso electronics, yt = unknown?, vco = wine producer, avh = avianca holdings (airline industry).  The stocks with the highest growth were surprisingly across a range of sectors and are a combination of domestic and heavily exporting companies.
 
-![alt text]([url/images/HighGrowthStocks.png] "High Growth")
+![alt text]([https://github.com/natc79/StockPrices/blob/master/HighGrowthStocks.png] "High Growth")
 
 ## Future analysis
 
