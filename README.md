@@ -19,7 +19,7 @@ For the most part the average open, close, high and low values hover around 22-2
 
 The highest volume trading dates were in 2007 and 2008 during the global financial crises.  This makes sense given there was extensive trading volatility during this time period and people were both selling and buying in the hopes of mitigating losses and buying stocks that were seen as relatively cheaper.  The date with the highest trading volume was January 23, 2008.  The volume traded on this date was 1.6 billion or nearly 1600 times the amount traded on average over the observed time period.
 
-![alt text]([/blob/master/HighVolumeDays.png] "High Volume")
+![alt text]([https://github.com/natc79/StockPrices/blob/master/HighVolumeDays.png] "High Volume")
 
 
 ## Most profitable stocks
